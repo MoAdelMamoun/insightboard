@@ -1,4 +1,4 @@
-// Deterministic, obviously-fictional sample sales data for the demo. Generated
+// Deterministic, fictional sample sales data. Generated
 // with a fixed seed so the build is stable. Customer names are well-known
 // fictional placeholders (Acme, Globex, Initech…) — no real businesses.
 
@@ -103,6 +103,6 @@ function build(): Order[] {
 
 export const seedOrders: Order[] = build();
 export const seedMeta = {
-  label: 'Demo dataset — Acme & friends, FY2025',
+  label: 'Sample dataset — Acme & friends, FY2025',
   rows: seedOrders.length,
 };

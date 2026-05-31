@@ -138,7 +138,7 @@ export default function Toolbar({
         <span className="rounded-full bg-slate-100 px-2 py-0.5">{datasetLabel}</span>
         {isUploaded && (
           <button type="button" onClick={onReset} className="text-accent-700 underline">
-            Reset to demo data
+            Reset to sample data
           </button>
         )}
       </div>

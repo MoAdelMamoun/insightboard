@@ -1,4 +1,4 @@
-"""InsightBoard API — FastAPI + SQLite. Auto-seeds demo data on first run."""
+"""InsightBoard API — FastAPI + SQLite. Auto-seeds sample data on first run."""
 from __future__ import annotations
 
 import os

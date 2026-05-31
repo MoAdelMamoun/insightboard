@@ -1,4 +1,4 @@
-"""Deterministic, obviously-fictional demo sales data (mirrors the frontend seed)."""
+"""Deterministic, fictional sample sales data (mirrors the frontend seed)."""
 from __future__ import annotations
 
 import calendar
@@ -19,7 +19,7 @@ CUSTOMERS = [
     "Wonka Provisions", "Soylent Foods", "Cyberdyne Outlet", "Wayne Bazaar",
 ]
 
-SEED_LABEL = "Demo dataset — Acme & friends, FY2025"
+SEED_LABEL = "Sample dataset — Acme & friends, FY2025"
 
 
 def generate(seed: int = 20260530) -> list[dict]:

@@ -71,7 +71,7 @@ export default function Dashboard() {
         <h1 className="text-2xl font-semibold text-slate-900">Sales analytics</h1>
         <p className="mt-1 text-sm text-slate-500">
           Drop in a CSV or Excel export and explore KPIs, trends and breakdowns — then export a report. Starts on bundled
-          demo data so it works with zero setup.
+          sample data so it works with zero setup.
         </p>
       </div>
 

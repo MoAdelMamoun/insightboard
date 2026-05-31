@@ -63,7 +63,7 @@ export async function exportPDF(opts: {
   doc.setTextColor(110);
   doc.text(`${opts.datasetLabel}`, 40, 66);
   doc.text(`Period: ${opts.range.from} to ${opts.range.to}`, 40, 80);
-  doc.text('Demo report — generated from sample data.', 40, 94);
+  doc.text('Generated from sample data.', 40, 94);
 
   // KPI strip
   const k = opts.kpis;
