@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-800 antialiased;
+    font-family: var(--font-sans), system-ui, sans-serif;
+  }
+}
+
+/* Recharts: keep tooltips/axes legible on the light theme */
+.recharts-default-tooltip {
+  border-radius: 0.5rem !important;
+  border: 1px solid #e2e8f0 !important;
+}

@@ -1,0 +1,11 @@
+date,customer,category,region,product,quantity,unit_price,status
+2025-01-05,Acme Supply Co.,Home,North,Soy Candle,3,22,completed
+2025-01-18,Globex Retail,Electronics,West,USB-C Hub,2,39,completed
+2025-02-02,Initech Goods,Apparel,East,Linen Shirt,1,48,completed
+2025-02-21,Umbra Mercantile,Outdoors,South,Daypack,1,88,completed
+2025-03-09,Vandelay Imports,Beauty,North,Face Mist,4,26,completed
+2025-03-27,Hooli Market,Home,West,Linen Throw,2,68,refunded
+2025-04-14,Pied Piper Shop,Electronics,East,Bluetooth Speaker,1,79,completed
+2025-04-30,Stark Trading,Apparel,South,Rain Jacket,2,96,completed
+2025-05-12,Wonka Provisions,Outdoors,North,Trail Bottle,5,21,completed
+2025-05-25,Soylent Foods,Beauty,West,Hand Balm,6,12,completed

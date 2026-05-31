@@ -1,0 +1,22 @@
+# Node / Next (frontend)
+node_modules/
+.next/
+out/
+build/
+next-env.d.ts
+tsconfig.tsbuildinfo
+
+# Python (backend)
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.db
+*.sqlite3
+
+# Env / misc
+.env
+.env.local
+.env*.local
+*.log
+.DS_Store
